@@ -1,0 +1,5 @@
+{
+  "name": "Docling AI PDF Extractor",
+  "description": "Extract high-fidelity Markdown and images from PDFs using Gemini Multimodal AI.",
+  "requestFramePermissions": []
+}
